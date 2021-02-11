@@ -1,0 +1,40 @@
+/* entire card */
+
+body {
+    background-color: lightgray;
+}
+
+.entire-card {
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    background-color: white;
+    border-radius: 35px;
+}
+
+
+/* top of card */
+
+.card-top {
+    position: relative;
+}
+
+.new-student {
+    position: absolute;
+    top: -16px;
+    left: 20x;
+    color: white;
+    background-color: rgb(187, 15, 15);
+}
+
+.pic {
+    width: 350px;
+    border-bottom: 3px solid rgb(187, 15, 15);
+}
+
+
+/* bottom of card */
+
+.card-bottom {
+    padding: 30px;
+}
